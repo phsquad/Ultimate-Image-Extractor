@@ -13,4 +13,4 @@
 1. Установите Python 3.10+
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/Ultimate-Image-Extractor.git
+   git clone https://github.com/phsquad/Ultimate-Image-Extractor.git
