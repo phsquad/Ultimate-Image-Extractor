@@ -51,7 +51,7 @@
 1.  **Установите Python**: Скачайте и установите [Python 3.10+](https://www.python.org/downloads/) (обязательно отметьте галочку **"Add Python to PATH"**).
 2.  **Скачайте проект**:
     ```bash
-    git clone https://github.com/ВАШ_НИК/Ultimate-Image-Extractor.git
+    git clone https://github.com/phsquad/Ultimate-Image-Extractor.git
     cd Ultimate-Image-Extractor
     ```
 3.  **Установите зависимости**:
@@ -72,7 +72,7 @@
     ```
 2.  **Склонируйте и установите**:
     ```bash
-    git clone https://github.com/ВАШ_НИК/Ultimate-Image-Extractor.git
+    git clone https://github.com/phsquad/Ultimate-Image-Extractor.git
     cd Ultimate-Image-Extractor
     pip install -r requirements.txt
     ```
